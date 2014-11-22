@@ -1,0 +1,28 @@
+body {
+  font-family: 'Lucida Grande', sans-serif;
+  color: #666666;
+}
+
+.features {
+  border: 1px solid #CCCCCC;
+  padding: 30px;
+  margin-top: 31px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 46px 0 28px 0;
+}
+
+h2 {
+  margin: 0 0 31px 0;
+  color: #F07C17;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+li,
+p {
+  font-size: 16px;
+  line-height: 2;
+}
