@@ -1,28 +1,31 @@
+/* Whole Page Style */
+
 body {
-  font-family: 'Lucida Grande', sans-serif;
-  color: #666666;
-}
-
-.features {
-  border: 1px solid #CCCCCC;
-  padding: 30px;
-  margin-top: 31px;
-}
-
-h1 {
-  font-size: 48px;
-  margin: 46px 0 28px 0;
-}
-
-h2 {
-  margin: 0 0 31px 0;
-  color: #F07C17;
-  font-size: 24px;
-  font-weight: bold;
+  color: #666;
 }
 
 li,
 p {
-  font-size: 16px;
-  line-height: 2;
+  font: 16px/2 'Lucida Grande', sans-serif;
+}
+
+/* Headings */
+
+h1 {
+  font: normal 48px 'Lucida Grande', sans-serif;
+  margin: 44px 0 26px 0;
+}
+
+h2 {
+  margin: 0 0 27px 0;
+  color: #F07C17;
+  font: bold 24px 'Lucida Grande', sans-serif;
+}
+
+/* Sidebar */
+
+.features {
+  border: 1px solid #CCC;
+  padding: 30px;
+  margin-top: 30px;
 }
